@@ -62,12 +62,8 @@ O usuário pode selecionar o ano, o time e a posição dos jogadores a serem ana
 
 ### Referências
 
-Pereira, M. G. (2021). Streamlit: compartilhando sua aplicação de dados sem dor de cabeça. Acesso em Abril de 2022, em https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n3nEo2KTg77Qpag14CTmhciP75BZvwrAqL-aZ8oS3Kyphjd3PXR5rxoCiFUQAvD_BwE
+Pereira, M. G. (2021). Streamlit: compartilhando sua aplicação de dados sem dor de cabeça. Acesso em Abril de 2022, em https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n3nEo2KTg77Qpag14CTmhciP75BZvwrAqL-aZ8oS3Kyphjd3PXR5rxoCiFUQAvD_BwE.
 
+Horst, A. (2020). palmerpenguins. Acesso em Janeiro de 2022, em https://github.com/allisonhorst/palmerpenguins.
 
-
-https://github.com/allisonhorst/palmerpenguins****
-
-
-
-https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&ab_channel=DataProfessor
+Professor, D. How to Build Your First Data Science Web App in Python. Acesso em Janeiro de 2022, em https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&ab_channel=DataProfessor.
