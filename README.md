@@ -49,6 +49,10 @@ O interessante dessa aplicação, é a variabilidade com que o usuário pode ins
 - Ou baixando um exemplo e inserindo dentro da própria plataforma.
 
 
+## NBA Player Stats Explorer
+
+![alt text](https://raw.githubusercontent.com/willianmenegatt/Projetos_Streamlit/main/NBA_Players/nba.webp)
+
 
 
 
