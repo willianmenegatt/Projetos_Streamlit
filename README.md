@@ -24,6 +24,21 @@ O usuário é livre pra escolher entre 1 a 10 ações para comparações. Outro 
 
 Na parte do código, uma lista das ações do S&P500 é obtida a partir do wikipedia e a informação financeira retirada do yahoo finance.
 
+## DNA Nucleotide Count Web App
+
+![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/DNA_Count/dna_count.jpg?raw=true)
+
+Esse aplicativo permite com que pessoas possam inserir uma sequência de DNA, com o objetivo de receber uma contagem de cada um dos nucleotídeos presentes nesta sequência.
+
+O usuário vai receber o número de:
+- Adenida (A);
+- Guanina (G);
+- Citosina (C);
+- Timina (T).
+
+
+
+
 
 
 
