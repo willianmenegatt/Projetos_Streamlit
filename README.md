@@ -6,7 +6,7 @@ Esta ferramenta permite transformar um projeto de Ciência de Dados em uma aplic
 
 Esse repositório destina-se a armazenar algumas aplicações interessantes realizadas com o auxílio da ferramenta Streamlit!
 
-# Boston House Price Prediction App
+## Boston House Price Prediction App
 
 ![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/Regression_Boston/boston_image.jpeg)
 
