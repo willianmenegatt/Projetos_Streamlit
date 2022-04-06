@@ -12,6 +12,7 @@ Esse repositório destina-se a armazenar algumas aplicações interessantes real
 
 Este app permite que usuários possam selecionar diversas características de um imóvel na região de Boston - Massachusetts com o objetivo de prever o preço deste imóvel.
 
+A aplicação também permite visualizar a importância de cada uma das variáveis selecionadas. 
 
 
 
