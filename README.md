@@ -10,6 +10,9 @@ Esse repositório destina-se a armazenar algumas aplicações interessantes real
 
 ![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/Regression_Boston/boston_image.jpeg)
 
+Este app permite que usuários possam selecionar diversas características de um imóvel na região de Boston - Massachusetts com o objetivo de prever o preço deste imóvel.
+
+
 
 
 
