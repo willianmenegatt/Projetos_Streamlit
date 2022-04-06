@@ -53,7 +53,9 @@ O interessante dessa aplicação, é a variabilidade com que o usuário pode ins
 
 ![alt text](https://raw.githubusercontent.com/willianmenegatt/Projetos_Streamlit/main/NBA_Players/nba.webp)
 
+Este app funciona como um analisador de estatísticas de jogadores que participam da NBA. Os dados são obtidos diretamente do site: https://www.basketball-reference.com
 
+O usuário pode selecionar o ano, o time e a posição dos jogadores a serem analisados. Diversas serão as características disponíveis para cada jogador.
 
 
 
