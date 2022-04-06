@@ -37,6 +37,10 @@ O usuário vai receber o número de:
 - Timina (T).
 
 
+## Penguin Prediction App
+
+![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/Penguin_predict/penguins.jpg?raw=true)
+
 
 
 
@@ -48,3 +52,11 @@ O usuário vai receber o número de:
 ### Referências
 
 Pereira, M. G. (2021). Streamlit: compartilhando sua aplicação de dados sem dor de cabeça. Acesso em Abril de 2022, em https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n3nEo2KTg77Qpag14CTmhciP75BZvwrAqL-aZ8oS3Kyphjd3PXR5rxoCiFUQAvD_BwE
+
+
+
+https://github.com/allisonhorst/palmerpenguins****
+
+
+
+https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&ab_channel=DataProfessor
