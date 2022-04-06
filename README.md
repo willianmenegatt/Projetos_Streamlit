@@ -41,7 +41,12 @@ O usuário vai receber o número de:
 
 ![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/Penguin_predict/penguins.jpg?raw=true)
 
+O Penguin Prediction App funciona como um problema de classificação. Com base no local em que vive e nas características físicas de cada penguim, o programa define a espécie do pinguim entre três diferentes (Adelie, Chinstrap e Gentoo).
 
+O interessante dessa aplicação, é a variabilidade com que o usuário pode inserir os seus dados de entrada (características do pinguim a ser analisado), sendo elas:
+- Anexando um arquivo;
+- Utilizando de filtros existentes na lateral esquerda;
+- Ou baixando um exemplo e inserindo dentro da própria plataforma.
 
 
 
