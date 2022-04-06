@@ -18,6 +18,12 @@ O código se resume desde o carregamento dos dados tratados, a construção do m
 
 ![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/sEp500/sp-500.jpg?raw=true)
 
+Essa aplicação possibilita investidores acompanharem a variação dos preços das ações que constam no índice S&P500 no acumulado do ano.
+
+O usuário é livre pra escolher entre 1 a 10 ações para comparações. Outro filtro disponível é a escolha do setor das empresas selecionadas.
+
+Na parte do código, uma lista das ações do S&P500 é obtida a partir do wikipedia e a informação financeira retirada do yahoo finance.
+
 
 
 
