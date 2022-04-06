@@ -16,7 +16,7 @@ O código se resume desde o carregamento dos dados tratados, a construção do m
 
 ## S&P500 App Stock Price
 
-![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/Regression_Boston/boston_image.jpeg)
+![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/sEp500/sp-500.jpg?raw=true)
 
 
 
