@@ -8,7 +8,7 @@ Esse repositório destina-se a armazenar algumas aplicações interessantes real
 
 # Boston House Price Prediction App
 
-![alt text](https://github.com/willianmenegatt/Projeto_AirbnbRio/blob/main/airbnb.jpg?raw=true)
+![alt text](https://github.com/willianmenegatt/Projetos_Streamlit/blob/main/Regression_Boston/boston_image.jpeg)
 
 
 
