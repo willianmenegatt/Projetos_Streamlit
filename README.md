@@ -21,6 +21,6 @@ O código se resume desde o carregamento dos dados tratados, a construção do m
 
 
 
+**Referências**
 
-
-REF: https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n3nEo2KTg77Qpag14CTmhciP75BZvwrAqL-aZ8oS3Kyphjd3PXR5rxoCiFUQAvD_BwE
+Pereira, M. G. (2021). Streamlit: compartilhando sua aplicação de dados sem dor de cabeça. Acesso em Abril de 2022, de https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n3nEo2KTg77Qpag14CTmhciP75BZvwrAqL-aZ8oS3Kyphjd3PXR5rxoCiFUQAvD_BwE
